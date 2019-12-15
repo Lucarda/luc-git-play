@@ -1,4 +1,4 @@
 some file has changed
 other changed
 now in some-branch-1
-here second-branch
+here second-branch and we use -m commmit message
