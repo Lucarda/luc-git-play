@@ -3,4 +3,3 @@ other changed
 now in some-branch-1
 something
 new new
-cred
